@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/members",
+      "destination": "https://www.misbournetrailrun.org.uk/members",
+      "permanent": false
+    }
+  ]
+}
